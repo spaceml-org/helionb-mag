@@ -1,6 +1,10 @@
 # SoHO/MDI & SDO/HMI Line-of-Sight Magnetogram Dataset
 Co-aligned, co-temporal observations of the Sun's magnetic field, obtained from two space-based instruments.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceml-org/helionb-mag/blob/main/notebooks/01_los_mag_dataset_2019/mdi-hmi_los_mag_dataset_colab.ipynb)
+
+
+
 ### Overview
 
 Over the last 20 years, full-disk observations of the Sun’s line-of-sight magnetic field have been by obtained from space by SoHO/MDI (1024 x 1024 pixels; 1996 - 2011), and SDO/HMI (4096 x 4096 pixels; 2010 - present). While combining these datasets would allow access to two solar cycles, differences between these instruments⁠—such as their orbits, resolution, noise, and saturation levels⁠—all introduce inhomogeneities and discontinuities that complicates analysis significantly. 
