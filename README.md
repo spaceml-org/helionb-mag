@@ -4,18 +4,16 @@ Heliophysics notebooks corresponding to the Magnetogram ML Dataset
 
 ## Notebooks:
 
-* **SoHO/MDI & SDO/HMI Line-of-sight Magnetogram Dataset (2019)**
-
-  * In this notebook, we demonstrate the process for interacting with a small sample of the HMI-MDI Magnetogram (ML) dataset. [publication in prep.]
-
-    
+* **01: SoHO/MDI & SDO/HMI Line-of-sight Magnetogram Dataset (2019)**
+* In this notebook, we demonstrate the process for interacting with a small sample of the HMI-MDI Magnetogram (ML) dataset. [publication in prep.]
+  
 
 *The following notebooks are currently under development*:
 
-* **NSO/GONG & SDO/HMI Line-of-sight Magnetogram Dataset (2019)**
-  * *Under development*
-* **Super-resolution Magnetograms (2019)**
+* **02: Super-resolution Magnetograms (2019)**
   * *Under development*, based on the FDL 2019 project to super-resolve SoHO/MDI and NSO/GONG Magnetograms to SDO/HMI resolution
+* **03: NSO/GONG & SDO/HMI Line-of-sight Magnetogram Dataset (2019)**
+  * *Under development*
 
 
 ## Interacting with each notebook:
@@ -64,7 +62,7 @@ Contributions are welcome as pull requests to the main branch, and should mirror
 
   
 
-* Formatting with Black (https://black.readthedocs.io/en/stable/) is preferred; see https://github.com/drillan/jupyter-black for the jupyter notebook integration:
+* Formatting with Black (https://black.readthedocs.io/en/stable/) is preferred; see https://github.com/drillan/jupyter-black for the Jupyter notebook integration:
 
   ```
   pip install black

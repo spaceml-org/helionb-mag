@@ -9,7 +9,7 @@ This curated dataset consists of co-aligned, co-temporal observations of the sam
 
 
 
-![img](https://lh6.googleusercontent.com/jbjfb5t8GH6nY0j2W3zCgmY-wwydw0AuRwR7MrRJ-dtBcg_zTZVccKUMPC96BFPMlLg3PG01_Hr151AxgC87brnpUp8oTGqNbOWDS06PAELm19JKrawSTyosejciW_yDWx3Th7UT)
+![img](./figure_one.png)
 
 **Figure 1:** Co-temporal MDI and HMI magnetograms taken on the 31st March 2011. Further co-aligned patches are shown inset.
 

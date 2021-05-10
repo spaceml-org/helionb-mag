@@ -18,3 +18,6 @@ In this challenge, we aimed to understand if learning-based super-resolution tec
 ### Results
 
 This work demonstrates that learning-based super-resolution techniques can successfully up-sample and homogenize solar magnetic field images obtained by two space-based instruments. We demonstrate the suitability of our approach by up-sampling and calibrating MDI magnetograms to the characteristics of HMI, and further propose a set of metrics to evaluate the quality of (1) instrument cross-calibration, and (2) super-resolution of magnetograms that can also be applied across disciplines.
+
+---
+
