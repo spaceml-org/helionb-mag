@@ -5,7 +5,7 @@ Heliophysics notebooks corresponding to the Magnetogram ML Dataset
 ## Notebooks:
 
 * **01: SoHO/MDI & SDO/HMI Line-of-sight Magnetogram Dataset (2019)**
-* In this notebook, we demonstrate the process for interacting with a small sample of the HMI-MDI Magnetogram (ML) dataset. [publication in prep.]
+  * In this notebook, we demonstrate the process for interacting with a small sample of the HMI-MDI Magnetogram (ML) dataset. [publication in prep.]
   
 
 *The following notebooks are currently under development*:
@@ -23,7 +23,7 @@ Each notebook is contained within its own <project> folder:
 ```
 .
 └── notebooks
-    └── ##_<project>_<year> # Each project has it's own folder named sequentially, with the project name, and year of the project
+    └── ##_<project>_<year> # Each project has its own folder named sequentially, with the project name, and year of the project
         ├── README.md
         ├── <project>_colab.ipynb # A Jupyter notebook designed to be executed on Google Colab.
         ├── <project>.ipynb # The corresponding local development version of the colab notebook.
